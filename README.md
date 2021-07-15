@@ -72,3 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Following external library is used
+
+1: Ant design for UI [https://ant.design/docs/react/use-with-create-react-app]
+
+2: react-loader-spinner for snipper while fetching the data [https://www.npmjs.com/package/react-loader-spinner]
